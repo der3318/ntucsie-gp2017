@@ -1,0 +1,11 @@
+Quiz8 說明文件
+
+操作方式
+	無apk，以影片呈現(Demo.mp4)
+
+有做到的項目
+	1. 使用ARCamera
+		有Vuforia浮水印
+	2. 成功辨識
+		使用一張QRCode的圖片(qrcode.jpg)
+		會生出一個白色方塊

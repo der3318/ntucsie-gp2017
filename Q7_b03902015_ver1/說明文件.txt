@@ -1,0 +1,16 @@
+Quiz7 說明文件
+
+操作方式
+	滑鼠 - 點擊設定紅球位置
+
+有做到的項目
+	1. 藍色球會沿地面移動到點擊點
+		使用NavMesh來實現
+	2. 兩地傳送
+		使用OffMeshLink來實現
+	3. 自體發光
+		其中一個cube會自體發光
+		(Assets/Demo/Demo2這個場景中)
+	4. Bake貼圖
+		共兩張exr，在資料夾第一層即可看到
+		(完整的原始位置在Assets\Scenes\Example01_LightMapping\這裡)

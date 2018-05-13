@@ -1,0 +1,14 @@
+有做到的項目
+	- Standard Shader
+		- Mode = Fade
+		- Metalic = 0.5
+		- Smoothness = 0.5
+	- Toon
+		- 展示了原本的模型和Shader跑出來的樣子
+	-  UV offset
+		- 隨時間從右上shift到左下
+		- 再從左下shift到右上，不斷循環
+
+操作方式
+	- 不須操作
+
